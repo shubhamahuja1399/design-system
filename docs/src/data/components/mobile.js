@@ -45,7 +45,7 @@ export const data = [
       />)
   },
   {
-    link: 'buttons/usage',
+    link: 'button/usage',
     design: 'Available',
     name: 'Buttons',
     code: 'Available',
